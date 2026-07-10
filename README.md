@@ -6,7 +6,7 @@
 
 ## 🎓 About Me
 
-I am a Software Engineering student with a strong interest in back-end development, database systems, application architecture, and full-stack web development.
+I am a Software Engineering student with a strong interest in back-end development, database systems, application architecture, full-stack web development, and learn more about solution architect.
 
 I enjoy transforming real-world requirements into structured, maintainable, and practical software solutions. My current objective is to strengthen my knowledge of software engineering principles while continuously improving my practical development skills.
 
