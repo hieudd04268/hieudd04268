@@ -217,15 +217,20 @@ I value teamwork, clear communication, constructive feedback, and shared learnin
 
 ## 📫 Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-hieudd04268-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hieudd04268)
+<img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="22" alt="GitHub"> &nbsp;
+**GitHub:** [github.com/hieudd04268](https://github.com/hieudd04268)
 
-[![GitLab](https://img.shields.io/badge/GitLab-hieudd04268-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/hieudd04268)
+<img src="https://img.icons8.com/color/48/gitlab.png" width="22" alt="GitLab"> &nbsp;
+**GitLab:** [gitlab.com/hieudd04268](https://gitlab.com/hieudd04268)
 
-[![Email](https://img.shields.io/badge/Email-dinhduchieu60%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dinhduchieu60@gmail.com)
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="22" alt="Gmail"> &nbsp;
+**Email:** [dinhduchieu60@gmail.com](mailto:dinhduchieu60@gmail.com)
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Updating_Soon-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+<img src="https://img.icons8.com/color/48/linkedin.png" width="22" alt="LinkedIn"> &nbsp;
+**LinkedIn:** Updating soon
 
-![Portfolio](https://img.shields.io/badge/Portfolio-Under_Development-000000?style=flat-square&logo=vercel&logoColor=white)
+<img src="https://img.icons8.com/color/48/domain.png" width="22" alt="Portfolio"> &nbsp;
+**Portfolio:** Under development
 
 ---
 
