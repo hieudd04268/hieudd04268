@@ -217,10 +217,15 @@ I value teamwork, clear communication, constructive feedback, and shared learnin
 
 ## 📫 Contact
 
-* 🐙 GitHub: https://github.com/hieudd04268
-* 📧 Email: dinhduchieu60@gmail.com
-* 💼 LinkedIn: Updating soon
-* 🌐 Portfolio: Under development
+[![GitHub](https://img.shields.io/badge/GitHub-hieudd04268-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hieudd04268)
+
+[![GitLab](https://img.shields.io/badge/GitLab-hieudd04268-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/hieudd04268)
+
+[![Email](https://img.shields.io/badge/Email-dinhduchieu60%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dinhduchieu60@gmail.com)
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Updating_Soon-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+
+![Portfolio](https://img.shields.io/badge/Portfolio-Under_Development-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
