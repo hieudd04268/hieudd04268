@@ -1,256 +1,61 @@
-# 👋 Hello, I'm Dinh Duc Hieu
+<p align="center">
+  <a href="https://github.com/techwithgen">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Genesis" alt="Hello! I&#39;m Genesis" />
+  </a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=hieudd04268\&label=Profile%20Views\&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/hieudd04268?label=Followers\&style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/hieudd04268?label=Stars\&style=flat-square)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=700&height=44&lines=software%20developer%20%7C%20building%20cool%20things%20%3A);tech%2C%20code%2C%20coffee%20%3C3" alt="Typing headlines" />
+</p>
 
-## 🎓 About Me
+### 🚀 About Me
 
-I am a Software Engineering student with a strong interest in back-end development, database systems, application architecture, full-stack java web development, and learn more about solution architect.
+Software dev who loves coding and coffee!
 
-I enjoy transforming real-world requirements into structured, maintainable, and practical software solutions. My current objective is to strengthen my knowledge of software engineering principles while continuously improving my practical development skills.
+🔭 &nbsp;I'm currently working on **building applications**  
+💬 &nbsp;Ask me about **anything you want!**  
+⚡ &nbsp;Fun fact: **I code at the beach**
 
-For me, software development is not only about making an application work. A well-developed system should also be:
+### 🛠️ Tech Stack
 
-* Easy to understand
-* Secure and reliable
-* Maintainable over time
-* Scalable when requirements change
-* Supported by clear documentation
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-> Good software solves today's problem without creating tomorrow's nightmare.
+### 📊 GitHub Stats
 
----
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=techwithgen&show_icons=true&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=techwithgen&layout=compact&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
-## 🔭 Current Focus
+### 📈 Contribution Graph
 
-* Building web applications with Java and Spring Boot
-* Developing RESTful APIs
-* Designing relational database systems
-* Implementing authentication and authorization
-* Improving software architecture and code quality
-* Exploring microservices and event-driven systems
-* Learning AI integration with Spring AI
-* Applying Docker to application deployment
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=techwithgen&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 
----
+### 💭 Dev Quote
 
-## 🧠 Technical Knowledge
-
-### 💻 Programming Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
-
-### ⚙️ Back-End Development
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square\&logo=spring\&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square\&logo=spring\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square\&logo=springsecurity\&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square\&logo=spring\&logoColor=white)
-
-![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square\&logo=hibernate\&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square\&logo=openjdk\&logoColor=white)
-![Servlet](https://img.shields.io/badge/Servlet-007396?style=flat-square\&logo=openjdk\&logoColor=white)
-
-### 🎨 Front-End Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square\&logo=sass\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square\&logo=antdesign\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
-
-### 🗄️ Databases and Caching
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square\&logo=microsoftsqlserver\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
-
-### 🔧 Development Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square\&logo=gitlab\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square\&logo=swagger\&logoColor=black)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square\&logo=rabbitmq\&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square\&logo=cloudinary\&logoColor=white)
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square\&logo=selenium\&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square\&logo=sonarqubecloud\&logoColor=white)
-![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=flat-square\&logo=sonarlint\&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square\&logo=jira\&logoColor=white)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
 
 ---
-
-## 🧩 My Engineering Approach
-
-My development process usually follows these stages:
-
-```text
-Requirement Analysis
-        ↓
-Domain and Database Modeling
-        ↓
-Architecture Design
-        ↓
-Implementation
-        ↓
-Testing and Debugging
-        ↓
-Code Review and Refactoring
-        ↓
-Deployment and Improvement
-```
-
-I try to understand the problem before choosing technologies or writing code. This helps reduce unnecessary complexity and keeps the implementation aligned with actual requirements.
-
-My general principles are:
-
-* Understand the business problem before implementing the solution
-* Separate responsibilities between application layers
-* Design database relationships carefully
-* Validate important data on the server side
-* Apply authentication and authorization consistently
-* Handle errors and unexpected cases clearly
-* Write code that other developers can understand
-* Refactor before technical debt becomes a permanent team member
-
----
-
-## 📚 Areas of Interest
-
-```diff
-+ Clean Architecture
-+ Domain-Driven Design
-+ RESTful API Design
-+ Microservices Architecture
-+ Event-Driven Architecture
-+ Database Transactions
-+ Concurrency Control
-+ Application Security
-+ Automated Testing
-+ Containerized Deployment
-+ AI Integration
-```
-
----
-
-## 🚀 Current Learning Journey
-
-I am currently improving my knowledge and practical experience in:
-
-* Enterprise application development with Java and Spring Boot
-* Web application development with ASP.NET Core MVC
-* Secure authentication and role-based authorization
-* Relational database design and query optimization
-* Transaction management and concurrency control
-* Message-based communication with RabbitMQ
-* Application containerization with Docker
-* Automated and integration testing
-* Static code analysis and code-quality improvement
-* Third-party API and e-commerce platform integration
-
----
-
-## 👨‍💻 Developer Profile
-
-```java
-public final class DinhDucHieu {
-
-    private final String role = "Software Engineering Student";
-
-    private final String primaryFocus = "Back-End Development";
-
-    private final String[] interests = {
-        "Software Architecture",
-        "RESTful API Development",
-        "Database Design",
-        "Application Security",
-        "Distributed Systems",
-        "Artificial Intelligence"
-    };
-
-    public void dailyRoutine() {
-        analyzeRequirements();
-        designSolution();
-        writeMaintainableCode();
-        testImportantFeatures();
-        debugUnexpectedBehavior();
-        readDocumentation();
-        improvePreviousVersion();
-    }
-
-    public String currentStatus() {
-        return "Learning continuously and improving one commit at a time.";
-    }
-}
-```
-
----
-
-## 🤝 Collaboration
-
-I am interested in collaborating on projects related to:
-
-* Back-end development
-* Full-stack web applications
-* E-commerce systems
-* Database design
-* RESTful API development
-* Application security
-* Software engineering research
-* Academic and student projects
-
-I value teamwork, clear communication, constructive feedback, and shared learning.
-
----
-
-## 📫 Contact
-
-<img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="22" alt="GitHub"> &nbsp;
-**GitHub:** [github.com/hieudd04268](https://github.com/hieudd04268)
-
-<img src="https://img.icons8.com/color/48/gitlab.png" width="22" alt="GitLab"> &nbsp;
-**GitLab:** [gitlab.com/hieudd04268](https://gitlab.com/hieudd04268)
-
-<img src="https://img.icons8.com/color/48/gmail-new.png" width="22" alt="Gmail"> &nbsp;
-**Email:** [dinhduchieu60@gmail.com](mailto:dinhduchieu60@gmail.com)
-
-<img src="https://img.icons8.com/color/48/linkedin.png" width="22" alt="LinkedIn"> &nbsp;
-**LinkedIn:** Updating soon
-
-<img src="https://img.icons8.com/color/48/domain.png" width="22" alt="Portfolio"> &nbsp;
-**Portfolio:** Under development
-
----
-
-## 💭 Development Philosophy
-
-> A successful system is not merely one that works today, but one that can still be understood, maintained, and improved tomorrow.
-
-```text
-Compile errors are temporary.
-Good documentation is valuable.
-Clean code is a long-term investment.
-Bugs are simply undocumented features awaiting investigation.
-```
-
----
-
-## ⭐ Final Note
-
-Thank you for visiting my GitHub profile.
-
-Feel free to explore my repositories and follow my software engineering journey.
-
-**Learn systematically. Build responsibly. Improve continuously.**
+<p align="center"><i>⭐️ From <a href="https://github.com/techwithgen">techwithgen</a></i></p>
